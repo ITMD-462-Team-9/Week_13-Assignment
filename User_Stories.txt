@@ -4,6 +4,7 @@
 	+  When a member is added to a team they need to be removed from the list of available members looking for a team.
 	+  When a member is removed from a team they need to be placed back into the list of available members.
 	+  A team needs a member to be the administrator.
+	+  A team can have a description of what project they are/will be working on and how many members are allowed to join. 
 
 2.  As a user I need to be able to add, delete, view, and update a new member profile.
 	+  A team member contains a first name, last name, email address, phone number, and a list of skills.
