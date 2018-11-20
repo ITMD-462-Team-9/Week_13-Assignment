@@ -4,17 +4,27 @@
 	+  When a member is added to a team they need to be removed from the list of available members looking for a team.
 	+  When a member is removed from a team they need to be placed back into the list of available members.
 	+  A team needs a member to be the administrator.
+
 2.  As a user I need to be able to add, delete, view, and update a new member profile.
 	+  A team member contains a first name, last name, email address, phone number, and a list of skills.
+
 3.  As a user I need to be able to add, delete, view, and update a skill.
 	+  A skill contains a skill category and a type or name of that skill.
 	   - Skill category would be something like "Database" or "language".
 	   - Type or name may be something like "Mongo" or "Python".
-4.  As a user I need to be able to ask to join a team. 
+
+4.  As a user I need to be able to ask to join a team.
+
 5.  As a user I need to be able to leave a team.
+
 6.  As an administrator user I need to be able limit the number of members of a team.
+
 7.  As a team member I need to be able to ask other users to join our team so that I can guarantee my team meets requirements.
+
 8.  As an administrator I need to be able to remove a user from our team so that if a member leaves we can still add people to that team later.
+
 9. (optional) As an administrator I need to be able to limit team sizes so that I can guarantee evenness.
+
 10. (optional) As a user I need to be blocked from adding to a full team, so that teams are equally entered.
+
 11.  (optional) As a user I want to be able to sort available members by skills, so that I can find good matches.
